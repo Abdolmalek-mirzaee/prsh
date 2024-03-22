@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color:#efad4d;
+}
+
+.container{
+
+    border: 1px solid black;
+    
+}
+
+.transaction{
+    height:49px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1d375a;
+    color:#fff;
+}
+
+.transaction-item{
+
+    font-size: 19px;
+    font-weight: 600;
+}
+
+svg{
+
+    width:20px;
+}
+
+.the-details{
+
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
